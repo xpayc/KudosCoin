@@ -1,7 +1,61 @@
 
-KudosCoin development tree
+KudosCoin
 
-KudosCoin is a PoS-based cryptocurrency.
+KudosCoin or KUDOS for short, the coins issued by Kudos Blockchain Asset Exchange Platform. KudosCoin is a decentralized cryptocurrency Intended to target new and in experienced Bitcoin and Alternative Currency enthusiasts a new fresh currency from which to trade, mine and stake and be a part of a world class cryptocurrency exchange.    
+
+KudosCoin (KUDOS) will embrace electronic transfer of goods, small business and online purchases.  Also trading and staking in the online community driven completely by supply and demand. In the online exchanges quickly gaining trust and respect amount is valued members and traders.   
+
+With your help, Kudos Exchange will build a world-class blockchain asset exchange, powering the future of cryptocurrency.
+
+We will issue our coin, called the KudosCoin. A strict limit of 140 MM KUDOS will be created, never to be increased and currently 98 MM KUDOS for circulation with an inflation of 10% through PoS mining.
+
+Coin Properties:
+
+Algorithm	             -     Scrypt
+Type	                     -     PoW/PoS
+Coin Name	     -     KudosCoin
+Coin Abbreviation    -	   KUDOS
+RPC Port	             -     32434
+P2P Port	             -     32433
+Block Reward	     -     100 Coins
+Max Coin Supply     -	   140,000,000 Coins
+PoS Percentage	     -     10% per year
+Coinbase Maturity   -      20 Blocks
+Target Spacing	     -      64 Seconds
+Target Timespan     -      1 Block
+Transaction Confirmations	6 Blocks
+
+WHY KUDOS?
+•	Operating in accordance with AML Policy. 
+•	Lowest transaction fees to reduce the cost of trading
+•	Trade with the highest number of cryptocurrencies available on one exchange
+•	Scalable up to 2 million transactions per second
+•	Ultra-secure platform using latest security protocols and designs
+
+Roadmap – Development Plan
+	
+Q1 – 2018	•	Initial fund ready, project started.
+•	White Paper released
+•	KudosCoin launched
+•	Core system development
+•	Blockexplorer Launching
+•	Windows, Mac, Linux Wallet.
+•	KudosCoin early phase distribution
+
+Q2 - 2018	•	Fundraising for Kudos Exchange in exchange of KudosCoin.
+•	Android Wallet
+•	Web Wallet
+
+Q3 – 2018	•	Kudos Exchange V1.0 release
+•	KudosCoin Listing
+
+Q4 – 2018	•	Launching Mobile apps (Android, iOS).
+•	Professional Trader Windows client releasing
+
+KudosCoin       - www.kudoscoin.org
+
+Kudos Exchange  - www.kudosex.com
+
 
 Development process
 ===========================
